@@ -7,6 +7,15 @@ html
     font-weight: lighter;
 
 }
+a
+{
+	text-decoration: none;
+	color: black;
+}
+.bouton_voir_plus
+{
+	text-decoration: underline;
+}
 body 
 {
 	margin: 0;
@@ -125,7 +134,7 @@ nav li a:hover
 
 .Actu
 {
-	background-image: url("20210418_ArthusNonette_AlexisHaulot_1131632642331274.jpg");
+	background-image: url("PHOTOS2022/20210418_ArthusNonette_AlexisHaulot_1131632642331274.jpg");
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	background-color: black;
@@ -201,7 +210,7 @@ nav li a:hover
 
 .event1
 {
-	background-image: url("Livraison_20201010_EnduroDeLaLesse_Haulot_1041602564805301.jpg");
+	background-image: url("PHOTOS2022/Livraison_20201010_EnduroDeLaLesse_Haulot_1041602564805301.jpg");
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 }
@@ -221,7 +230,7 @@ nav li a:hover
 
 .event2
 {
-	background-image: url("Livraison Arthus GRG_20210911_EnduroGRG_Haulot_01941632642353436.jpg");
+	background-image: url("PHOTOS2022/Livraison Arthus GRG_20210911_EnduroGRG_Haulot_01941632642353436.jpg");
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 }
@@ -241,7 +250,7 @@ nav li a:hover
 
 .event3
 {
-	background-image: url("AHA_61151632642331435.jpg");
+	background-image: url("PHOTOS2022/AHA_61151632642331435.jpg");
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 }
