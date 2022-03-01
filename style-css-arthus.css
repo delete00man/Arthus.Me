@@ -267,11 +267,9 @@ nav li a:hover
 	line-height: 400px;
 }
 
-.calendar a
+.calendar div a
 {
 	text-decoration: none;
-	color: red;
-	text-shadow: white 1px 1px;
 	width: 300px;
     	margin-left: auto;
     	margin-right: auto;
