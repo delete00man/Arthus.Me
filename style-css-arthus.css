@@ -267,6 +267,11 @@ nav li a:hover
 	line-height: 400px;
 }
 
+.calendar a
+{
+	text-decoration: none;
+}
+
 .calendar div a
 {
 	text-decoration: none;
