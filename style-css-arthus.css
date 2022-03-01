@@ -9,7 +9,6 @@ html
 
 .actu a
 {
-	text-decoration: none;
 	color: black;
 }
 
@@ -270,10 +269,13 @@ nav li a:hover
 .calendar a
 {
 	text-decoration: none;
+	color: black;
 }
 
 .calendar div a
 {
+	text-shadow: red 1px 1px;
+	color: white;
 	text-decoration: none;
 	width: 300px;
     	margin-left: auto;
