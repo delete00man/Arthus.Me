@@ -7,9 +7,10 @@ html
     font-weight: lighter;
 }
 
-a
+.actu a
 {
 	text-decoration: none;
+	color: black;
 }
 
 .bouton_voir_plus
@@ -265,3 +266,9 @@ nav li a:hover
 	vertical-align: middle;
 	line-height: 400px;
 }
+
+.calendar a
+{
+	text-decoration: none;
+}
+	
