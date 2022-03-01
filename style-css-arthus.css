@@ -270,5 +270,11 @@ nav li a:hover
 .calendar a
 {
 	text-decoration: none;
+	color: red;
+	text-shadow: white 1px 1px;
+	width: 300px;
+    	margin-left: auto;
+    	margin-right: auto;
+    	border-radius: 20px;	
 }
 	
